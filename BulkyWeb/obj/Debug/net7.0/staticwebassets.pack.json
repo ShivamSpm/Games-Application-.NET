@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Learning-projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\926e054c-ab40-46da-bc1a-8b37aaa3f248.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\926e054c-ab40-46da-bc1a-8b37aaa3f248.jpg"
+    },
+    {
+      "Id": "E:\\Learning-projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\b12eb790-36cf-4313-bf27-6ec1b23c70d9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b12eb790-36cf-4313-bf27-6ec1b23c70d9.jpg"
+    },
+    {
+      "Id": "E:\\Learning-projects\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "E:\\Learning-projects\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

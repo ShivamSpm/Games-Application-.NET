@@ -1,0 +1,12 @@
+E:\Learning-projects\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.deps.json
+E:\Learning-projects\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.dll
+E:\Learning-projects\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.pdb
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dll
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll
+E:\Learning-projects\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache
