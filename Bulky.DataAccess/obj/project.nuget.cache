@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ii5cPA0mc4HzWtXbfNads+8xX+rLo2Gz3TgHq2BXyv4hS+bVx2QZGVvkM6Edh86HL5cF+awSXR7Ss3Z+Tg86mQ==",
+  "dgSpecHash": "uYEFYrCiuW0897WOD2AgR3mxOSbDuFkA4MoGZIt1RVBPgi9SmrNgCjOGCraHQSPRjmMqAXbI1AvPqUO+afyCLw==",
   "success": true,
-  "projectFilePath": "E:\\Learning-projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+  "projectFilePath": "E:\\Learning\\Games-Application-.NET\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smahajan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\smahajan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

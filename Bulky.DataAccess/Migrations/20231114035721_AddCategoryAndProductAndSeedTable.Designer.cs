@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Bulky.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231108030512_AddImageUrlToProduct")]
-    partial class AddImageUrlToProduct
+    [Migration("20231114035721_AddCategoryAndProductAndSeedTable")]
+    partial class AddCategoryAndProductAndSeedTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

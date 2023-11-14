@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning-projects\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {}
+    "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "E:\\Learning-projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+    "E:\\Learning\\Games-Application-.NET\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning-projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectUniqueName": "E:\\Learning\\Games-Application-.NET\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "projectName": "Bulky.DataAccess",
-        "projectPath": "E:\\Learning-projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectPath": "E:\\Learning\\Games-Application-.NET\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "packagesPath": "C:\\Users\\smahajan\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning-projects\\Bulky\\Bulky.DataAccess\\obj\\",
+        "outputPath": "E:\\Learning\\Games-Application-.NET\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\smahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Learning-projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "E:\\Learning-projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              "E:\\Learning\\Games-Application-.NET\\Bulky.Models\\Bulky.Models.csproj": {
+                "projectPath": "E:\\Learning\\Games-Application-.NET\\Bulky.Models\\Bulky.Models.csproj"
               },
-              "E:\\Learning-projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-                "projectPath": "E:\\Learning-projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+              "E:\\Learning\\Games-Application-.NET\\Bulky.Utility\\Bulky.Utility.csproj": {
+                "projectPath": "E:\\Learning\\Games-Application-.NET\\Bulky.Utility\\Bulky.Utility.csproj"
               }
             }
           }
@@ -86,21 +82,17 @@
         }
       }
     },
-    "E:\\Learning-projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "E:\\Learning\\Games-Application-.NET\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning-projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "E:\\Learning\\Games-Application-.NET\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "E:\\Learning-projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectPath": "E:\\Learning\\Games-Application-.NET\\Bulky.Models\\Bulky.Models.csproj",
         "packagesPath": "C:\\Users\\smahajan\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning-projects\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "E:\\Learning\\Games-Application-.NET\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\smahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,21 +143,17 @@
         }
       }
     },
-    "E:\\Learning-projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "E:\\Learning\\Games-Application-.NET\\Bulky.Utility\\Bulky.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning-projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "E:\\Learning\\Games-Application-.NET\\Bulky.Utility\\Bulky.Utility.csproj",
         "projectName": "Bulky.Utility",
-        "projectPath": "E:\\Learning-projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectPath": "E:\\Learning\\Games-Application-.NET\\Bulky.Utility\\Bulky.Utility.csproj",
         "packagesPath": "C:\\Users\\smahajan\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning-projects\\Bulky\\Bulky.Utility\\obj\\",
+        "outputPath": "E:\\Learning\\Games-Application-.NET\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\smahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -210,21 +198,17 @@
         }
       }
     },
-    "E:\\Learning-projects\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {
+    "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning-projects\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "E:\\Learning-projects\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectPath": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\BulkyWeb.csproj",
         "packagesPath": "C:\\Users\\smahajan\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning-projects\\Bulky\\BulkyWeb\\obj\\",
+        "outputPath": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\smahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,8 +222,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Learning-projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-                "projectPath": "E:\\Learning-projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+              "E:\\Learning\\Games-Application-.NET\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+                "projectPath": "E:\\Learning\\Games-Application-.NET\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
               }
             }
           }

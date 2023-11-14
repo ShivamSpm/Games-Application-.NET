@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gHZ9pJM9PiZcpLWOUUfK0oTL0PLv+yNDweOKi+rD8AYGPRL6X3W+y+bslFKG9JvEPAW9YKxvfMT+CfkoRIUl+w==",
+  "dgSpecHash": "mBe+F4fXONxite17zsfYces/q2m3RM1ZEOyPA8QQv3H58toaUUCGqDZHAYowY3ij9HxSYNIzkSg2qFDDdaZ9gQ==",
   "success": true,
-  "projectFilePath": "E:\\Learning-projects\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+  "projectFilePath": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smahajan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\smahajan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
