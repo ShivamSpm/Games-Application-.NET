@@ -20,3 +20,6 @@ E:\Learning\Games-Application-.NET\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.
 E:\Learning\Games-Application-.NET\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
 E:\Learning\Games-Application-.NET\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
 E:\Learning\Games-Application-.NET\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+E:\Learning\Games-Application-.NET\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.runtimeconfig.json
+E:\Learning\Games-Application-.NET\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\Learning\Games-Application-.NET\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.genruntimeconfig.cache

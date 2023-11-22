@@ -22,3 +22,5 @@ E:\Learning\Games-Application-.NET\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dl
 E:\Learning\Games-Application-.NET\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
 E:\Learning\Games-Application-.NET\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
 E:\Learning\Games-Application-.NET\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll
+E:\Learning\Games-Application-.NET\Bulky.Models\bin\Debug\net7.0\Bulky.Models.runtimeconfig.json
+E:\Learning\Games-Application-.NET\Bulky.Models\obj\Debug\net7.0\Bulky.Models.genruntimeconfig.cache
