@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\images\\Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logo.jpg"
+    },
+    {
+      "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
       "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\images\\product\\06d09675-b541-4bb4-8b0b-8e0a4ab0fe3c.jpg",
       "PackagePath": "staticwebassets\\images\\product\\06d09675-b541-4bb4-8b0b-8e0a4ab0fe3c.jpg"
     },
@@ -47,6 +55,10 @@
     {
       "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
       "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\product.js",

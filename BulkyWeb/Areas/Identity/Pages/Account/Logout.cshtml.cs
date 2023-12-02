@@ -37,6 +37,6 @@ namespace BulkyWeb.Areas.Identity.Pages.Account
                 // request and the identity for the user gets updated.
                 return RedirectToPage();
             }
-        }
+        }   
     }
 }
