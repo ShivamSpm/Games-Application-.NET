@@ -55,11 +55,11 @@ namespace Bulky.DataAccess.DbInitializer
                     Email = "admin@shivam.com",
                     Name = "Shivam Mahajan",
                     PhoneNumber = "1112223333",
-                    StreetAddress = "test 53 Drive",
+                    StreetAddress = "test 53 Dr",
                     State = "NY",
                     PostalCode = "23422",
                     City = "Rochester"
-                }, "admin123#").GetAwaiter().GetResult();
+                }, "shivamM123#").GetAwaiter().GetResult();
 
 
                 ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@shivam.com");
