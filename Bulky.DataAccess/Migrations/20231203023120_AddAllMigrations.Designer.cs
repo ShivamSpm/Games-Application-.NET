@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Bulky.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231202231233_AddAllMigrations")]
+    [Migration("20231203023120_AddAllMigrations")]
     partial class AddAllMigrations
     {
         /// <inheritdoc />
