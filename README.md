@@ -4,7 +4,7 @@
 
 <h1 align="center">E-Commerce Full Stack Web App</h1>
 <div align="center">
-     <h4 align="center">This e-commerce web application, built using .NET 8, exemplifies best coding practices such as dependency injection and N-tier architecture.
+     <h4 align="center">This e-commerce web application, built using .NET 8 and C#, exemplifies best coding practices such as dependency injection and N-tier architecture.
      </h4><br/>
      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img  
        src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/> <img 
@@ -40,4 +40,8 @@ The design and implementation of this e-commerce platform focus on delivering a 
 
 
 ### Screenshots
+
+* `Login page`
+
+  ![WhatsApp Image 2024-05-06 at 18 47 14_7d90b312](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/0fc8a97b-5af3-4edf-b740-7958c2c1c658)
 
