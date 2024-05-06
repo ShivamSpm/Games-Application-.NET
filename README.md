@@ -45,3 +45,35 @@ The design and implementation of this e-commerce platform focus on delivering a 
 
   ![WhatsApp Image 2024-05-06 at 18 47 14_7d90b312](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/0fc8a97b-5af3-4edf-b740-7958c2c1c658)
 
+* `Home Page`
+
+  ![WhatsApp Image 2024-05-06 at 18 45 01_5db710a3](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/78c23c7c-ba09-401b-b2f9-5e725c661c7e)
+
+* `Category page`
+
+  ![WhatsApp Image 2024-05-06 at 18 45 31_38ed2924](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/0d4e7824-3cc6-42b5-ab15-f0d22d5f767f)
+
+* `Create Product page`
+
+   ![WhatsApp Image 2024-05-06 at 18 46 11_505769bd](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/c1cb2a97-6390-4d59-a87f-9dd4b7c3d932)
+
+* `Product page`
+
+  ![WhatsApp Image 2024-05-06 at 18 46 23_050d01c5](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/f07d4856-c0cb-4b24-bb38-77afa684abd0)
+
+* `Buying Product page`
+
+  ![WhatsApp Image 2024-05-06 at 18 48 02_f42bb862](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/f4dba6ba-1d32-44ae-801e-eded700b9db6)
+
+* `Cart page`
+
+  ![WhatsApp Image 2024-05-06 at 18 48 37_9c0dd5f8](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/f203e212-fb3c-45c3-a84a-23aa4ca9c601)
+
+* `Summary page`
+
+  ![WhatsApp Image 2024-05-06 at 18 48 57_f37e9819](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/08800a07-b912-496b-a3d4-aa7bb8f860c4)
+
+* `Manage Order page`
+
+  ![WhatsApp Image 2024-05-06 at 18 50 51_eab85828](https://github.com/ShivamSpm/Games-Application-.NET/assets/43480557/c9679140-79ef-4ac3-8e20-b3557c7bbe5b)
+
