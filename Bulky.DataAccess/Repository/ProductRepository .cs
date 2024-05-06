@@ -34,11 +34,11 @@ namespace Bulky.DataAccess.Repository
                 objFromDb.ISBN = obj.ISBN;
                 objFromDb.Author = obj.Author;
                 objFromDb.CategoryId = obj.CategoryId;
-
-                if(objFromDb.ImageUrl != null )
-                {
-                    objFromDb.ImageUrl = obj.ImageUrl;
-                }
+                objFromDb.ProductImages = obj.ProductImages;
+                //if(objFromDb.ImageUrl != null )
+                //{
+                //    objFromDb.ImageUrl = obj.ImageUrl;
+                //}
             }
         }
     }

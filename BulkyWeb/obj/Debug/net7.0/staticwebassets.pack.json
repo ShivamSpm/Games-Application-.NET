@@ -53,6 +53,14 @@
       "PackagePath": "staticwebassets\\images\\product\\d2bf4b90-defb-4103-b67e-33b4ff533dbc.jpg"
     },
     {
+      "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\images\\products\\product-2\\1004d4a2-b5c7-4e5d-9b6a-4a72bf043924.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\1004d4a2-b5c7-4e5d-9b6a-4a72bf043924.jpg"
+    },
+    {
+      "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\images\\products\\product-2\\24e34bc7-f256-436f-bf88-50dd55f4ea3a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\24e34bc7-f256-436f-bf88-50dd55f4ea3a.jpg"
+    },
+    {
       "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
@@ -67,6 +75,10 @@
     {
       "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
       "Id": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",

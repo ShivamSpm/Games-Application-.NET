@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2LQvtN71rbhADQlhaYpY8aEj3/SE1jm62uMVCfmTX2g=",
+  "Hash": "7uaFhMbxCjrlcaJm3qiNALH6itKIe0iCtMA+xmVNtSc=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1275,6 +1275,40 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\d2bf4b90-defb-4103-b67e-33b4ff533dbc.jpg"
     },
     {
+      "Identity": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\images\\products\\product-2\\1004d4a2-b5c7-4e5d-9b6a-4a72bf043924.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-2/1004d4a2-b5c7-4e5d-9b6a-4a72bf043924.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-2\\1004d4a2-b5c7-4e5d-9b6a-4a72bf043924.jpg"
+    },
+    {
+      "Identity": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\images\\products\\product-2\\24e34bc7-f256-436f-bf88-50dd55f4ea3a.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-2/24e34bc7-f256-436f-bf88-50dd55f4ea3a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-2\\24e34bc7-f256-436f-bf88-50dd55f4ea3a.jpg"
+    },
+    {
       "Identity": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\company.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -1341,6 +1375,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\js\\user.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/user.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\user.js"
     },
     {
       "Identity": "E:\\Learning\\Games-Application-.NET\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
