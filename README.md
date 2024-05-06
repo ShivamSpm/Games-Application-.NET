@@ -28,7 +28,7 @@ The design and implementation of this e-commerce platform focus on delivering a 
 -----------------------------------------
 
 ### Implementation
-* **Backend Development:** Built on .NET 8 and structured around N-tier architecture to enhance modularity and maintainability. The backend is implemented in C#, using dependency injection to manage dependencies cleanly and efficiently. This setup ensures robust data handling and integration with various services like Stripe and SendGrid.
+* **Backend Development:** Built on .NET 8 and structured around N-tier architecture to enhance modularity and maintainability. The backend is implemented in C#, using dependency injection to manage dependencies cleanly and efficiently. This setup ensures robust data handling and integration with various services like Stripe and SendGrid. 
 * **Frontend Development:** The user interface is developed using ASP.NET, designed to provide a responsive and user-friendly experience. It supports interactions such as product browsing, cart management, and secure checkout, while adapting smoothly to various devices to ensure consistent user experience across all platforms.
 
 -----------------------------------------
