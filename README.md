@@ -1,5 +1,5 @@
 <p align="center">
- <a> <img height=200px src="./public/logo.png" alt="Discord Logo"> </a>
+ <a> <img height=200px src="./BulkyWeb/wwwroot/images/Logo.png" alt="Application Logo"> </a>
 </p>
 
 <h1 align="center">E-Commerce Full Stack Web App</h1>
