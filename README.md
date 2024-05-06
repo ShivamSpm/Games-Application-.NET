@@ -1,10 +1,10 @@
 <p align="center">
- <a> <img height=200px src="./BulkyWeb/wwwroot/images/Logo.png" alt="Application Logo"> </a>
+ <a> <img height=200px src="./BulkyWeb/wwwroot/images/Logo2.jpeg" alt="Application Logo"> </a>
 </p>
 
 <h1 align="center">E-Commerce Full Stack Web App</h1>
 <div align="center">
-     <h4 align="center">This project is a full stack Discord clone built using Next.js (Typescript), styled with Tailwind CSS, and incorporates real-time communication features via Socket.io. It leverages Prisma as an ORM for PostgreSQL to handle database operations, creating a robust and interactive chat application.
+     <h4 align="center">This e-commerce web application, built using .NET 8, exemplifies best coding practices such as dependency injection and N-tier architecture.
      </h4><br/>
      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img  
        src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/> <img 
@@ -13,17 +13,17 @@
 
 -----------------------------------------
 ### Overview
-The Discord clone is designed to simulate the core functionalities of the popular chat service, Discord. It features user authentication, real-time messaging, and dynamic channel management. The application is built using Next.js, a React framework, which facilitates server-side rendering and static site generation to enhance performance and SEO. Tailwind CSS is used for its utility-first approach to design, allowing for rapid and responsive UI development.
+The application serves as a versatile platform for selling books and games, designed to cater to both administrators and customers. Administrators have comprehensive control over product and category management, as well as user administration, while users enjoy a seamless shopping experience from product selection to checkout. Built using the latest .NET 8 framework, this application showcases modern web development practices and technological integrations that enhance functionality and user engagement.
+The design and implementation of this e-commerce platform focus on delivering a robust and scalable solution capable of handling a diverse range of e-commerce activities. From browsing and managing an extensive catalog of products to executing secure financial transactions, the application addresses all critical aspects of online retail. It is meticulously crafted to ensure that administrators can easily manage the backend processes while providing users with a smooth, intuitive shopping experience that is consistent across all devices. This dual focus on administrative control and user satisfaction makes the platform highly effective for both managing and growing an online store.
 
 -----------------------------------------
 
 ### Features
 
-* User Authentication: Secure login and registration functionality using Clerk
-* Server Management: Users can create their own channel, invite friends and manage members by assigning them roles or removing them from the server
-* Channel Management: Users can create, join, and manage channels with voice and video functionality
-* Real-Time Messaging: Users can send and receive messages instantly with Socket.io. They can send messages in a text channel or directly to their friends. They have the ability to edit, delete or reply to a message
-* Responsive Design: Utilizing Tailwind CSS and shadcn/ui components for a flexible and adaptive user interface
+* **Admin Dashboard:** Allows admins to create, update, and delete products and categories, as well as manage user accounts.
+* **User Shopping Experience:** Users can browse products, add them to their cart, and proceed through a secure checkout process.
+* **Payment Integration:** Utilizes Stripe for handling payments, ensuring a safe and reliable transaction process.
+* **Email Integration:** Incorporates SendGrid to manage email communications effectively, facilitating automated order confirmations and alerts.
 
 -----------------------------------------
 
@@ -35,9 +35,9 @@ The Discord clone is designed to simulate the core functionalities of the popula
 -----------------------------------------
 
 ### Challenges Faced
-* **Real-Time Data Management:** Implementing real-time communication while ensuring data consistency across clients was challenging. Socket.io was utilized to manage websockets for live data transmission but required careful state management to sync with the UI updates.
-* **Scalable Database Design:** Designing a database schema that supports complex queries efficiently while maintaining fast response times for a growing number of users and messages. Prisma and PostgreSQL were key in managing relationships and ensuring integrity.
-* **Authentication and Security:** Implementing a secure authentication system that protects user data and prevents unauthorized access was critical. The system integrates with Next.js API routes to handle secure sessions and user authentication.
+* **Implementing Secure Payment Processing:** Integrating Stripe required ensuring that the payment process was not only smooth but also secure, complying with the latest standards in online transactions.
+* **Scalability and Maintenance:** Building the app with scalability in mind, using N-tier architecture to effectively separate concerns and make the application easier to manage and scale.
+* **User Role Management:** Developing a robust system to handle different levels of user permissions and ensuring that administrative features were securely accessible only to admins.
 
 
 ### Screenshots
