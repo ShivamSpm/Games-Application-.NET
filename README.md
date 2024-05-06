@@ -28,9 +28,8 @@ The design and implementation of this e-commerce platform focus on delivering a 
 -----------------------------------------
 
 ### Implementation
-* Frontend: Built with Next.js and TypeScript, leveraging the powerful features of React for component-based architecture. Tailwind CSS provides a flexible styling framework that adapts to various device screens.
-* Backend: Utilizes Prisma as an ORM to interact with a PostgreSQL database, managing data persistence for user information, messages, and channel details. Server-side logic is handled in Next.js API routes, providing a clear separation of concerns and streamlined data handling.
-* Real-Time Features: Socket.io is used to establish a WebSocket connection between the users, enabling real-time bidirectional event-based communication. This allows the app to instantly update all clients when messages are sent or channels are updated. Livekit is used for voice and video communications. It is an open source project that provides scalable, multi-user conferencing based on WebRTC.
+* **Backend Development:** Built on .NET 8 and structured around N-tier architecture to enhance modularity and maintainability. The backend is implemented in C#, using dependency injection to manage dependencies cleanly and efficiently. This setup ensures robust data handling and integration with various services like Stripe and SendGrid.
+* **Frontend Development:** The user interface is developed using ASP.NET, designed to provide a responsive and user-friendly experience. It supports interactions such as product browsing, cart management, and secure checkout, while adapting smoothly to various devices to ensure consistent user experience across all platforms.
 
 -----------------------------------------
 
@@ -41,3 +40,4 @@ The design and implementation of this e-commerce platform focus on delivering a 
 
 
 ### Screenshots
+
